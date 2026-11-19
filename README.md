@@ -4,15 +4,14 @@ I'm a programmer who enjoys exploring how things work under the hood, solving pr
 
 I enjoy working with both low-level programming and web development, turning ideas into functional projects and improving my skills one step at a time.
 
-🛠️ Languages & Technologies
+🛠️ Languages &  Tools
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=c,js,html,css,python" />
+  <img src="https://skillicons.dev/icons?i=c,js,html,css,python" /><p align="left">   <img src="https://skillicons.dev/icons?i=git,github,vscode,windows,linux" /> </p>
 </p>
 
-⚙️ Tools
 
-<p align="left">   <img src="https://skillicons.dev/icons?i=git,github,vscode,windows,linux" /> </p>
+
 
 📫 Contact
 
