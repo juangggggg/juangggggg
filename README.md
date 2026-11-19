@@ -7,7 +7,7 @@ I enjoy working with both low-level programming and web development, turning ide
 🛠️ Languages &  Tools
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=c,js,html,css,python" /><p align="left">   <img src="https://skillicons.dev/icons?i=git,github,vscode,windows,linux" /> </p>
+  <img src="https://skillicons.dev/icons?i=c,js,html,css,python,github,vscode,windows" />
 </p>
 
 
