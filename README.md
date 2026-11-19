@@ -1,16 +1,38 @@
-## Hi there 👋
+# 👨‍💻 About Me
 
-<!--
-**juangggggg/juangggggg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hey! I'm a programmer passionate about understanding how things work under the hood. I enjoy writing code, solving problems, experimenting with new ideas, and continuously improving my skills as a developer.
 
-Here are some ideas to get you started:
+Currently focused on **C programming, Data Structures & Algorithms, problem-solving, and low-level programming**. I believe in learning by building, making mistakes, debugging, and improving one line of code at a time.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### ⚙️ Currently Learning
+
+- 💻 C Programming
+- 🧠 Data Structures & Algorithms (DSA)
+- 🔗 Pointers, Memory Management & Linked Lists
+- 🖥️ Low-Level Programming & Computer Architecture
+- 🛠️ Software Development and Problem-Solving
+
+### 🧰 Languages & Tools
+
+- C
+- Git & GitHub
+- VS Code
+- Windows / Linux Terminal
+
+### 🎯 Goals
+
+- Build a strong foundation in computer science.
+- Master data structures and algorithms.
+- Understand how software works at a low level.
+- Build useful projects and open-source my work.
+- Become a better developer every day.
+
+### 📫 Contact
+
+- 📧 Email: [juanmana380@gmail.com](mailto\:juanmana380@gmail.com)
+
+
+
+---
+
+> *"Code. Debug. Learn. Repeat."* ⚡
