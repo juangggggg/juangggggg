@@ -1,23 +1,19 @@
 # 👨‍💻 About Me
 
-Hey! I'm a programmer passionate about understanding how things work under the hood. I enjoy writing code, solving problems, experimenting with new ideas, and continuously improving my skills as a developer.
+I'm a programmer who enjoys exploring how things work under the hood, solving problems, and building projects from scratch. I'm currently strengthening my foundations in programming, computer science, and software development — learning through experimentation, debugging, and continuous improvement.
 
-Currently focused on **C programming, Data Structures & Algorithms, problem-solving, and low-level programming**. I believe in learning by building, making mistakes, debugging, and improving one line of code at a time.
+I enjoy working with both low-level programming and web development, turning ideas into functional projects and improving my skills one step at a time.
 
-### ⚙️ Currently Learning
+🛠️ Languages & Technologies
 
-- 💻 C Programming
-- 🧠 Data Structures & Algorithms (DSA)
-- 🔗 Pointers, Memory Management & Linked Lists
-- 🖥️ Low-Level Programming & Computer Architecture
-- 🛠️ Software Development and Problem-Solving
-- 
-### 📫 Contact
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=c,js,html,css,python" />
+</p>
 
-- 📧 Email: [juanmana380@gmail.com](mailto\:juanmana380@gmail.com)
+⚙️ Tools
 
+<p align="left">   <img src="https://skillicons.dev/icons?i=git,github,vscode,windows,linux" /> </p>
 
+📫 Contact
 
----
-
-> *"Code. Debug. Learn. Repeat."* ⚡
+📧 Email: juanmana380@gmail.com
