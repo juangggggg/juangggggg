@@ -1,4 +1,4 @@
-# 👨‍💻 About Me
+# Hi ! I'm Juan
 
 I'm a programmer who enjoys exploring how things work under the hood, solving problems, and building projects from scratch. I'm currently strengthening my foundations in programming, computer science, and software development, learning through experimentation, debugging, and continuous improvement.
 
